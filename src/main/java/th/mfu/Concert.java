@@ -1,9 +1,6 @@
 package th.mfu;
 
 import java.util.Date;
-package th.mfu;
-
-import java.util.Date;
 
 public class Concert {
 
